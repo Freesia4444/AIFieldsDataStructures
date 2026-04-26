@@ -39,7 +39,3 @@ dotnet run
 Sudenaz Ş.
 [GitHub](https://github.com/Freesia4444) • [LinkedIn](https://www.linkedin.com/in/sudenaz-%C5%9F-083a49297/)
 
-
-**Sudenaz Ş.**  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KULLANICI_ADIN)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/LINKEDIN_ADIN)
